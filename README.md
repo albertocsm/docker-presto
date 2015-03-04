@@ -1,2 +1,3 @@
-# docker-presto
-PrestoDB docker cluster
+# PrestoDB Docker images
+
+Docker images for assembling a PrestoDB cluster
